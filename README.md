@@ -35,13 +35,13 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="(https://github-readme-stats.vercel.app/api?username=OsorioCODE01&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=OsorioCODE01&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsorioCODE01&theme=dracula&hide_border=true" alt="GitHub Streak">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsorioCODE01&theme=dracula&show_icons=true&hide_border=true&layout=compact">
 </p>
 
-
+![OsorioCODE01's Stats]()
 
 <!-- You can add more sections here like Projects, Blogs, etc. -->
