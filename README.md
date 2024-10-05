@@ -34,7 +34,12 @@
 </p>
 
 ## 📊 GitHub Stats:
+<p aling="center">
+![OsorioCODE01's Stats](https://github-readme-stats.vercel.app/api?username=OsorioCODE01&theme=dracula&show_icons=true&hide_border=true&count_private=true)  
+  ![OsorioCODE01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OsorioCODE01&theme=dracula&hide_border=true)  
+  ![OsorioCODE01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OsorioCODE01&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+</p>
 
-![OsorioCODE01's Stats](https://github-readme-stats.vercel.app/api?username=OsorioCODE01&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+
 
 <!-- You can add more sections here like Projects, Blogs, etc. -->
